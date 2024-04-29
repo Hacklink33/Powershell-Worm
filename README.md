@@ -1,0 +1,3 @@
+THIS IS A POWERSHELL WORM. ONLY FOR EDUCATIONNAL PURPOSES. DO NOT USE IT FOR ILLEGAL ACTIVITIES.
+
+Worm written in powershell script. Detected by Windows Defender.
